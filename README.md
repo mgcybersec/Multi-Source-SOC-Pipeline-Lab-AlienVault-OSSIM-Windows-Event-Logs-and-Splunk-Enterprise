@@ -1,0 +1,2 @@
+# Multi-Source-SOC-Pipeline-Lab-AlienVault-OSSIM-Windows-Event-Logs-and-Splunk-Enterprise
+Built and troubleshot a two-stage SOC log pipeline: Windows Security Event Logs via NXLog into AlienVault OSSIM's SIEM, and OSSIM's syslog forwarded to Splunk via rsyslog. Diagnosed a SIEM parsing mismatch, a corrupted config file, and a silent forwarding failure using packet capture. Verified via Splunk MCP + Claude.
